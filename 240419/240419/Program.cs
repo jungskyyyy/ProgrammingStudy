@@ -1,23 +1,22 @@
-﻿// 1. 코딩규칙 연습
-Console.WriteLine("Hello, World!"); // 한줄 주석: Ctrl + K + C
-Console.WriteLine("Hello, World!"); // 한줄 주석 해제: Ctrl + K + U
-Console.WriteLine("Hello, World!"); // 영역 주석&해제: Ctrl + Shift + /
+﻿// 2. 자료형 연습
 
-// 변수의 이름은 명사 또는 be + 형용사
-int countNumber = 0;
-int a = 10; // 변수의 의미는 00입니다. (나쁜 예)
-int totalNumber = 10;
-bool isActive = true;
+// 변수의 선언
+// 자료형(int) 변수명(number) =(대입연산자) 값10)
+byte byteA = 0xFF;          // 정수형 8bit
+short shortA = 0xFF;        // 정수형 16bit
+int number = 10;            // 정수형 32bit
+float pl = 3.141592f;       // 실수형 32bit
+double pi2 = 3.14259265359; // 실수형, 32bit
+char character = 'a';       // 문자형, 16bit
+string name = "정하늘";     // 문자가변형, 여러 문자형 저장
+bool isMoving = false;      // 부울형, 8bit. true(1) / false(0)
 
-// 함수의 이름은 동사
-// 함수(function): 클래스 외부에서 사용시
-// 메서드(method): 클래스 내부에서 사용시
-void Move()
-{
-
-}
-
-void RotateObject()
-{
-
-}
+// 콘솔에 출력
+Console.WriteLine(byteA);
+Console.WriteLine(shortA); // 한줄 복사: Ctrl + D
+Console.WriteLine(number); // 한줄 복사: Ctrl + D
+Console.WriteLine(pl); // 한줄 복사: Ctrl + D
+Console.WriteLine(pi2); // 한줄 복사: Ctrl + D
+Console.WriteLine(character); // 한줄 복사: Ctrl + D
+Console.WriteLine(name); // 한줄 복사: Ctrl + D
+Console.WriteLine(isMoving); // 한줄 복사: Ctrl + D
