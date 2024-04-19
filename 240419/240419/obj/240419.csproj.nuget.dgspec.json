@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\제5강의실-11\\source\\repos\\240419\\240419\\240419.csproj": {}
+    "C:\\Users\\제5강의실-11\\Documents\\GitHub\\ProgrammingStudy\\240419\\240419\\240419.csproj": {}
   },
   "projects": {
-    "C:\\Users\\제5강의실-11\\source\\repos\\240419\\240419\\240419.csproj": {
+    "C:\\Users\\제5강의실-11\\Documents\\GitHub\\ProgrammingStudy\\240419\\240419\\240419.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\제5강의실-11\\source\\repos\\240419\\240419\\240419.csproj",
+        "projectUniqueName": "C:\\Users\\제5강의실-11\\Documents\\GitHub\\ProgrammingStudy\\240419\\240419\\240419.csproj",
         "projectName": "240419",
-        "projectPath": "C:\\Users\\제5강의실-11\\source\\repos\\240419\\240419\\240419.csproj",
+        "projectPath": "C:\\Users\\제5강의실-11\\Documents\\GitHub\\ProgrammingStudy\\240419\\240419\\240419.csproj",
         "packagesPath": "C:\\Users\\제5강의실-11\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\제5강의실-11\\source\\repos\\240419\\240419\\obj\\",
+        "outputPath": "C:\\Users\\제5강의실-11\\Documents\\GitHub\\ProgrammingStudy\\240419\\240419\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\제5강의실-11\\AppData\\Roaming\\NuGet\\NuGet.Config",
