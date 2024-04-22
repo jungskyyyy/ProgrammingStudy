@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\제5강의실-11\\.nuget\\packages\\": {}
+    "C:\\Users\\하늘\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\제5강의실-11\\Documents\\GitHub\\ProgrammingStudy\\240419\\240419\\240419.csproj",
+      "projectUniqueName": "D:\\문서\\GitHub\\ProgrammingStudy\\240419\\240419\\240419.csproj",
       "projectName": "240419",
-      "projectPath": "C:\\Users\\제5강의실-11\\Documents\\GitHub\\ProgrammingStudy\\240419\\240419\\240419.csproj",
-      "packagesPath": "C:\\Users\\제5강의실-11\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\제5강의실-11\\Documents\\GitHub\\ProgrammingStudy\\240419\\240419\\obj\\",
+      "projectPath": "D:\\문서\\GitHub\\ProgrammingStudy\\240419\\240419\\240419.csproj",
+      "packagesPath": "C:\\Users\\하늘\\.nuget\\packages\\",
+      "outputPath": "D:\\문서\\GitHub\\ProgrammingStudy\\240419\\240419\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\제5강의실-11\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\하늘\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
